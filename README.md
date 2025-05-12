@@ -21,9 +21,7 @@ This repository explores methods for measuring and enhancing the robustness of p
 
 ## Getting Started
 
-1. **Download datasets:** `CIFAR-10-C`
-
-   ```
+1. **Download datasets:** `CIFAR-10-C`, `tiny-Image-Net`
 2. **Download a notebook:** Download and run locally:
 
 
