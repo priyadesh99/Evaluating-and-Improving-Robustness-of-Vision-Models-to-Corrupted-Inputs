@@ -24,7 +24,7 @@ There are some comments in the notebook about loading and running models.
 
 The models can be found at
 
-https://drive.google.com/drive/folders/1qQbyTtch0jj42U7zDyNuLHkzQAgz-5p_
+[Models](https://drive.google.com/drive/folders/1qQbyTtch0jj42U7zDyNuLHkzQAgz-5p_)
 
 ## License
 
