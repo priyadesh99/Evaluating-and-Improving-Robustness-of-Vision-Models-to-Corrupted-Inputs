@@ -12,7 +12,7 @@ This repository explores methods for measuring and enhancing the robustness of p
   Notebook Titled: Training_Across_Noise_Types.ipynb
   
 * **Trasnfer Learning Experiments**
-  Notebook Titled: transfer_learning.ipynb
+  Notebook Titled: transfer_learning_code.ipynb
 
 ## Steps to reproduce
 
@@ -25,6 +25,13 @@ There are some comments in the notebook about loading and running models.
 The models can be found at
 
 [Models](https://drive.google.com/drive/folders/1qQbyTtch0jj42U7zDyNuLHkzQAgz-5p_)
+
+
+## Notes
+Parts of this project are based on PyTorch tutorials such as [Transfer Learning for Computer Vision Tutorial](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html).
+
+We also used GPT based tools to help with structuring code and refining implementation details.
+
 
 ## License
 
