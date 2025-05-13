@@ -17,6 +17,15 @@ This repository explores methods for measuring and enhancing the robustness of p
 ## Steps to reproduce
 
 Download notebook and run cells sequentially for all experiments. 
+
+### Transfer learning notes
+
+There are some comments in the notebook about loading and running models.
+
+The models can be found at
+
+https://drive.google.com/drive/folders/1qQbyTtch0jj42U7zDyNuLHkzQAgz-5p_
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
