@@ -10,19 +10,9 @@ This repository explores methods for measuring and enhancing the robustness of p
   Notebook Titled: Training_Across_Sev_levels.ipynb
 * **Noise-Type Experiments**
   Notebook Titled: Training_Across_Noise_Types.ipynb
-
-## Repository Structure
-
-```                
-├── notebooks/            # Jupyter notebooks for experiments
-│            
-└── README.md             # Project overview and instructions
-```
-
-## Getting Started
-
-1. **Download datasets:** `CIFAR-10-C`, `tiny-Image-Net`
-2. **Download a notebook:** Download and run locally:
+  
+* **Trasnfer Learning Experiments**
+  Notebook Titled: transfer_learning.ipynb
 
 
 ## License
