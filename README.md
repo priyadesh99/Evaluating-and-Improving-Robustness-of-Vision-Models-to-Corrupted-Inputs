@@ -14,7 +14,9 @@ This repository explores methods for measuring and enhancing the robustness of p
 * **Trasnfer Learning Experiments**
   Notebook Titled: transfer_learning.ipynb
 
+## Steps to reproduce
 
+Download notebook and run cells sequentially for all experiments. 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
